@@ -178,7 +178,7 @@
 		display: block;
 	}
 
-	.button__stations__delete{
+	.station__listing__one .button__stations__delete{
 		position: absolute;
 		right: 10px;
 		display: none;
