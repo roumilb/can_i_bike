@@ -20,7 +20,7 @@ config.dev = process.env.NODE_ENV !== 'production';
 
 async function start() {
     //init db
-    mongoose.connect('mongodb://localhost:27017/canbike', {useNewUrlParser: true});
+    mongoose.connect('mongodb://127.0.0.1:27017/canbike', {useNewUrlParser: true});
     mongoose.Promise = global.Promise;
     let db = mongoose.connection;
 
