@@ -1,6 +1,12 @@
-# can_i_bike
+# Can I bike
 
-> My sensational Nuxt.js project
+> An application to check if there are avaible bikes on your daily city bikes station all around the world
+
+## Requirements
+
+> `npm`
+> `node`
+> `mongoDB`
 
 ## Build Setup
 
